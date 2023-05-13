@@ -1,0 +1,14 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.image{
+background-color: #dfdfdf;
+padding: 50px;
+}
+.image img{
+    width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+}
